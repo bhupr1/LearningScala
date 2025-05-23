@@ -1,0 +1,73 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/C:/Users/bhuneshwarp/IdeaProjects/LearnScala/"), "learnscala")...
+[debug] Updating ProjectRef(uri("file:/C:/Users/bhuneshwarp/IdeaProjects/LearnScala/"), "learnscala")...
+[debug] Done updating ProjectRef(uri("file:/C:/Users/bhuneshwarp/IdeaProjects/LearnScala/"), "learnscala")
+[warn] Update task caching failed due to NullPointerException.
+[warn] Report the following output to sbt:
+[warn] Update report:
+[warn] 	Resolve time: -1 ms, Download time: -1 ms, Download size: -1 bytes
+[warn] 	plugin:
+[warn] 	pom:
+[warn] 	test:
+[warn] 		org.scala-lang:scala-library:2.13.16:default (): 
+[warn] 			(Artifact(scala-library, src, jar, Some(sources), Vector(), Some(https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16-sources.jar), Map(info.apiURL -> https://www.scala-lang.org/api/2.13.16/), None, false),C:\Users\bhuneshwarp\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.16\scala-library-2.13.16-sources.jar)
+[warn] 			(Artifact(scala-library, doc, jar, Some(javadoc), Vector(), Some(https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16-javadoc.jar), Map(info.apiURL -> https://www.scala-lang.org/api/2.13.16/), None, false),C:\Users\bhuneshwarp\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.16\scala-library-2.13.16-javadoc.jar)
+[warn] 	provided:
+[warn] 	compile-internal:
+[warn] 		org.scala-lang:scala-library:2.13.16:default (): 
+[warn] 			(Artifact(scala-library, src, jar, Some(sources), Vector(), Some(https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16-sources.jar), Map(info.apiURL -> https://www.scala-lang.org/api/2.13.16/), None, false),C:\Users\bhuneshwarp\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.16\scala-library-2.13.16-sources.jar)
+[warn] 			(Artifact(scala-library, doc, jar, Some(javadoc), Vector(), Some(https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16-javadoc.jar), Map(info.apiURL -> https://www.scala-lang.org/api/2.13.16/), None, false),C:\Users\bhuneshwarp\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.16\scala-library-2.13.16-javadoc.jar)
+[warn] 	docs:
+[warn] 	optional:
+[warn] 	compile:
+[warn] 		org.scala-lang:scala-library:2.13.16:default (): 
+[warn] 			(Artifact(scala-library, src, jar, Some(sources), Vector(), Some(https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16-sources.jar), Map(info.apiURL -> https://www.scala-lang.org/api/2.13.16/), None, false),C:\Users\bhuneshwarp\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.16\scala-library-2.13.16-sources.jar)
+[warn] 			(Artifact(scala-library, doc, jar, Some(javadoc), Vector(), Some(https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16-javadoc.jar), Map(info.apiURL -> https://www.scala-lang.org/api/2.13.16/), None, false),C:\Users\bhuneshwarp\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.16\scala-library-2.13.16-javadoc.jar)
+[warn] 	test-internal:
+[warn] 		org.scala-lang:scala-library:2.13.16:default (): 
+[warn] 			(Artifact(scala-library, src, jar, Some(sources), Vector(), Some(https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16-sources.jar), Map(info.apiURL -> https://www.scala-lang.org/api/2.13.16/), None, false),C:\Users\bhuneshwarp\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.16\scala-library-2.13.16-sources.jar)
+[warn] 			(Artifact(scala-library, doc, jar, Some(javadoc), Vector(), Some(https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16-javadoc.jar), Map(info.apiURL -> https://www.scala-lang.org/api/2.13.16/), None, false),C:\Users\bhuneshwarp\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.16\scala-library-2.13.16-javadoc.jar)
+[warn] 	scala-tool:
+[warn] 		org.scala-lang:scala-compiler:2.13.16:default (): 
+[warn] 			(Artifact(scala-compiler, src, jar, Some(sources), Vector(), Some(https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.16/scala-compiler-2.13.16-sources.jar), Map(info.apiURL -> https://www.scala-lang.org/api/2.13.16/scala-compiler/), None, false),C:\Users\bhuneshwarp\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-compiler\2.13.16\scala-compiler-2.13.16-sources.jar)
+[warn] 			(Artifact(scala-compiler, doc, jar, Some(javadoc), Vector(), Some(https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.16/scala-compiler-2.13.16-javadoc.jar), Map(info.apiURL -> https://www.scala-lang.org/api/2.13.16/scala-compiler/), None, false),C:\Users\bhuneshwarp\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-compiler\2.13.16\scala-compiler-2.13.16-javadoc.jar)
+[warn] 		org.scala-lang:scala-compiler:2.13.16:optional (): 
+[warn] 			(Artifact(scala-compiler, src, jar, Some(sources), Vector(), Some(https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.16/scala-compiler-2.13.16-sources.jar), Map(info.apiURL -> https://www.scala-lang.org/api/2.13.16/scala-compiler/), None, false),C:\Users\bhuneshwarp\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-compiler\2.13.16\scala-compiler-2.13.16-sources.jar)
+[warn] 			(Artifact(scala-compiler, doc, jar, Some(javadoc), Vector(), Some(https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.16/scala-compiler-2.13.16-javadoc.jar), Map(info.apiURL -> https://www.scala-lang.org/api/2.13.16/scala-compiler/), None, false),C:\Users\bhuneshwarp\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-compiler\2.13.16\scala-compiler-2.13.16-javadoc.jar)
+[warn] 		org.scala-lang:scala-library:2.13.16:default (): 
+[warn] 			(Artifact(scala-library, src, jar, Some(sources), Vector(), Some(https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16-sources.jar), Map(info.apiURL -> https://www.scala-lang.org/api/2.13.16/), None, false),C:\Users\bhuneshwarp\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.16\scala-library-2.13.16-sources.jar)
+[warn] 			(Artifact(scala-library, doc, jar, Some(javadoc), Vector(), Some(https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16-javadoc.jar), Map(info.apiURL -> https://www.scala-lang.org/api/2.13.16/), None, false),C:\Users\bhuneshwarp\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.16\scala-library-2.13.16-javadoc.jar)
+[warn] 		org.scala-lang:scala-library:2.13.16:optional (): 
+[warn] 			(Artifact(scala-library, src, jar, Some(sources), Vector(), Some(https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16-sources.jar), Map(info.apiURL -> https://www.scala-lang.org/api/2.13.16/), None, false),C:\Users\bhuneshwarp\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.16\scala-library-2.13.16-sources.jar)
+[warn] 			(Artifact(scala-library, doc, jar, Some(javadoc), Vector(), Some(https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16-javadoc.jar), Map(info.apiURL -> https://www.scala-lang.org/api/2.13.16/), None, false),C:\Users\bhuneshwarp\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.16\scala-library-2.13.16-javadoc.jar)
+[warn] 		org.scala-lang:scala-reflect:2.13.16:default (): 
+[warn] 			(Artifact(scala-reflect, src, jar, Some(sources), Vector(), Some(https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.16/scala-reflect-2.13.16-sources.jar), Map(info.apiURL -> https://www.scala-lang.org/api/2.13.16/scala-reflect/), None, false),C:\Users\bhuneshwarp\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-reflect\2.13.16\scala-reflect-2.13.16-sources.jar)
+[warn] 			(Artifact(scala-reflect, doc, jar, Some(javadoc), Vector(), Some(https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.16/scala-reflect-2.13.16-javadoc.jar), Map(info.apiURL -> https://www.scala-lang.org/api/2.13.16/scala-reflect/), None, false),C:\Users\bhuneshwarp\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-reflect\2.13.16\scala-reflect-2.13.16-javadoc.jar)
+[warn] 		io.github.java-diff-utils:java-diff-utils:4.15:default: 
+[warn] 			(Artifact(java-diff-utils, src, jar, Some(sources), Vector(), Some(https://repo1.maven.org/maven2/io/github/java-diff-utils/java-diff-utils/4.15/java-diff-utils-4.15-sources.jar), Map(), None, false),C:\Users\bhuneshwarp\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\io\github\java-diff-utils\java-diff-utils\4.15\java-diff-utils-4.15-sources.jar)
+[warn] 			(Artifact(java-diff-utils, doc, jar, Some(javadoc), Vector(), Some(https://repo1.maven.org/maven2/io/github/java-diff-utils/java-diff-utils/4.15/java-diff-utils-4.15-javadoc.jar), Map(), None, false),C:\Users\bhuneshwarp\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\io\github\java-diff-utils\java-diff-utils\4.15\java-diff-utils-4.15-javadoc.jar)
+[warn] 		org.jline:jline:3.27.1:default: 
+[warn] 			(Artifact(jline, src, jar, Some(sources), Vector(), Some(https://repo1.maven.org/maven2/org/jline/jline/3.27.1/jline-3.27.1-sources.jar), Map(), None, false),C:\Users\bhuneshwarp\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\jline\jline\3.27.1\jline-3.27.1-sources.jar)
+[warn] 			(Artifact(jline, doc, jar, Some(javadoc), Vector(), Some(https://repo1.maven.org/maven2/org/jline/jline/3.27.1/jline-3.27.1-javadoc.jar), Map(), None, false),C:\Users\bhuneshwarp\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\jline\jline\3.27.1\jline-3.27.1-javadoc.jar)
+[warn] 			(Artifact(jline, jar, jar, Some(jdk8), Vector(), Some(https://repo1.maven.org/maven2/org/jline/jline/3.27.1/jline-3.27.1-jdk8.jar), Map(), None, false),C:\Users\bhuneshwarp\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\jline\jline\3.27.1\jline-3.27.1-jdk8.jar)
+[warn] 	sources:
+[warn] 	runtime:
+[warn] 		org.scala-lang:scala-library:2.13.16:default (): 
+[warn] 			(Artifact(scala-library, src, jar, Some(sources), Vector(), Some(https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16-sources.jar), Map(info.apiURL -> https://www.scala-lang.org/api/2.13.16/), None, false),C:\Users\bhuneshwarp\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.16\scala-library-2.13.16-sources.jar)
+[warn] 			(Artifact(scala-library, doc, jar, Some(javadoc), Vector(), Some(https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16-javadoc.jar), Map(info.apiURL -> https://www.scala-lang.org/api/2.13.16/), None, false),C:\Users\bhuneshwarp\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.16\scala-library-2.13.16-javadoc.jar)
+[warn] 	runtime-internal:
+[warn] 		org.scala-lang:scala-library:2.13.16:default (): 
+[warn] 			(Artifact(scala-library, src, jar, Some(sources), Vector(), Some(https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16-sources.jar), Map(info.apiURL -> https://www.scala-lang.org/api/2.13.16/), None, false),C:\Users\bhuneshwarp\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.16\scala-library-2.13.16-sources.jar)
+[warn] 			(Artifact(scala-library, doc, jar, Some(javadoc), Vector(), Some(https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16-javadoc.jar), Map(info.apiURL -> https://www.scala-lang.org/api/2.13.16/), None, false),C:\Users\bhuneshwarp\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.16\scala-library-2.13.16-javadoc.jar)
+[error] java.lang.NullPointerException
+[error] 	at lmcoursier.internal.shaded.coursier.cache.FileCache.$anonfun$validateChecksum$4(FileCache.scala:691)
+[error] 	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+[error] 	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+[error] 	at scala.util.Success.map(Try.scala:213)
+[error] 	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+[error] 	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+[error] 	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+[error] 	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+[error] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+[error] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+[error] 	at java.lang.Thread.run(Thread.java:750)
